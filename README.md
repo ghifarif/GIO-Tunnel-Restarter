@@ -1,5 +1,6 @@
 This script automatically resets IPSec/SSL tunnel between environments in GIO (& VCO) cloud.
 Combine with orchestration such as Jenkins/Azure DevOps/AWS Pipeline (Zabbix in my case) to fetch DOWN verdict as trigger for execution.
+![image](https://user-images.githubusercontent.com/101460772/158055371-2794a4b7-0aed-4c1a-8529-3ea977593bdd.png)
 Can be used literally/conceptually for similiar use case to other cloud VPN tunnel where tunnel uptime is mission-critical or other IaaC case.
 
 Refference used/related in this repo:
